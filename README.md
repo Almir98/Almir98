@@ -2,9 +2,7 @@
 
 ### I'm 22 and I'm bachelor of Information Technologies in Mostar.🎓
 ### Currently employed as a Full Stack Developer (.NET Core and Angular).
-
 #### During my studies at the university my goal was to be one of the best engineer's and I was willing to dedicate hours and hours to fulfil my goal.
-<br />
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/almir-tihak/)
