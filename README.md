@@ -1,14 +1,3 @@
-### Hi there, I'm Almir Tihak 👋
-
-### I'm 22 and I'm bachelor of Information Technologies in Mostar.🎓
-### Currently employed as a Full Stack Developer (.NET Core and Angular).
-
-
-#### • Skilled in web based solutions using cutting edge technologies such as Angular, ASP.NET MVC, ASP.NET Core, HTML5, CSS3, and JavaScript.
-#### • Skilled in backend and frontend development.
-#### • Strong fundamentals understanding the principles of object-oriented programming (OOP).
-#### • Currently my main focus is on C# .NET Core, Angular, Unit testing and MS SQL.
-
 ### Connect with me:
 
 <p>
