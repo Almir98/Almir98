@@ -1,10 +1,10 @@
 
 ### 📜 About me:
 
-##### Hello, I'm Almir 👋 I'm 25 years old with 3+ years of experience in commercial industry.
-##### Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C# .NET, Object-Oriented Programming (OOP), Clean Architecture, REST API Services, Microsoft SQL Server, Docker, Jenkins CI/CD, Git, AWS/Azure, Unit Testing. Primarily focused on Microsoft stack technologies.
-##### Graduated Master's degree from the Faculty of Information Technologies, University "Džemal Bijedić"​ in Mostar.
-##### Team player, communicative, responsible person, well organized and great problem-solver are some of my best personal traits. Motivated and always ready for learning and acquiring new experiences.
+#### Hello, I'm Almir 👋 I'm 25 years old with 3+ years of experience in commercial industry.
+#### Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C# .NET, Object-Oriented Programming (OOP), Clean Architecture, REST API Services, Microsoft SQL Server, Docker, Jenkins CI/CD, Git, AWS/Azure, Unit Testing. Primarily focused on Microsoft stack technologies.
+#### Graduated Master's degree from the Faculty of Information Technologies, University "Džemal Bijedić"​ in Mostar.
+#### Team player, communicative, responsible person, well organized and great problem-solver are some of my best personal traits. Motivated and always ready for learning and acquiring new experiences.
 
 
 ### Connect with me:
