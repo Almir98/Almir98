@@ -1,10 +1,12 @@
 
 ### 📜 About me:
 
-#### Hello, I'm Almir 👋 I'm 25 years old with 3+ years of experience in commercial industry, .NET and IoT enthusiast.
-#### Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C# .NET, Object-Oriented Programming (OOP), Clean Architecture, REST API Services, Microsoft SQL Server, Docker, Jenkins CI/CD, Git, AWS/Azure, Unit Testing. Primarily focused on Microsoft stack technologies.
+#### Hello, I'm Almir 👋 I'm 25 years old with 3+ years of experience in the commercial industry, specializing in C#/.NET.
+#### Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C# .NET, Object-Oriented Programming (OOP), Clean Architecture, REST API Services, Microsoft SQL Server, Docker, Jenkins CI/CD, Git, AWS/Azure, and Unit Testing. Primarily focused on Microsoft stack technologies.
 #### Graduated Master's degree from the Faculty of Information Technologies, University "Džemal Bijedić"​ in Mostar.
-#### Team player, communicative, responsible person, well organized and great problem-solver are some of my best personal traits. Motivated and always ready for learning and acquiring new experiences. My goal is to become a Software Architect one day.
+#### Author of technical articles on C#/.NET, with a monthly readership of over 1 million. I participate in writing .NET articles, sharing knowledge, experience, and expanding the .NET community.
+#### Team player, communicative, responsible person, well organized, and great problem-solver are some of my best personal traits. Motivated and always ready for learning and acquiring new experiences. My goal is to become a Software Architect one day.
+
 
 ### Connect with me:
 
@@ -44,4 +46,3 @@
 <br /><br />
 ### Check out my portfolio websites:
 - https://almir98.github.io/
-- https://almir98.github.io/almirtihak/
