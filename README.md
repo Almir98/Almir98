@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/almir-tihak/)
 
 <p>
   <a href="mailto:almir.tihak98@hotmail.com"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" height="47px" width:"47px"/></a>  
