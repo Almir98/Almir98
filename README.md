@@ -1,11 +1,16 @@
 
 ### 📜 About me:
 
-#### Hello, I'm Almir 👋 I'm 25 years old with 4 years of experience in the commercial industry, specializing in .NET and Angular versions.
-#### Software Engineer with a demonstrated history of working in the computer software industry. Skilled in C# .NET, Angular, Object-Oriented Programming (OOP), Clean Architecture, REST API Services, Microsoft SQL Server, Docker, Jenkins CI/CD, Git, AWS/Azure, and Unit Testing. Primarily focused on Microsoft stack technologies.
-#### Graduated Master's degree from the Faculty of Information Technologies, University "Džemal Bijedić"​ in Mostar.
-#### Author of technical articles on C#/.NET, with a monthly readership of over 1 million. I participate in writing .NET articles, sharing knowledge, experience, and expanding the .NET community.
-#### Team player, communicative, responsible person, well organized, and great problem-solver are some of my best personal traits. Motivated and always ready for learning and acquiring new experiences. 
+Senior Software Engineer & IT Consultant with a strong track record in delivering high-quality software solutions across diverse industries. I am a detail-oriented perfectionist, driven by continuous learning, problem-solving, and the pursuit of clean, scalable, and maintainable software systems.
+
+Highly skilled in .NET development (6+ years of experience), Clean Architecture, Unit Testing, SQL, React, Angular from v6 to v21 versions, and TypeScript. I have hands-on experience with Jenkins (CI/CD), AWS services, Git, and a wide range of modern development tools and DevOps practices.
+
+As a Software Engineer and IT Consultant, I focus on understanding business needs, optimising processes, and providing clear, actionable technical guidance that helps companies build reliable and future-proof digital solutions. With a master's degree, I combine strong academic grounding with real-world engineering expertise.
+
+I am a team player with excellent communication skills, highly organised, responsible, and recognised for my ability to break down complex problems into simple, effective solutions. Always eager to take on new challenges, I enjoy helping businesses grow and adapt in an ever-changing technological landscape.
+
+Let's connect and explore how we can collaborate to turn your software vision into reality.
+Building solutions today that empower the innovations of tomorrow. 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almir98&label=Profile%20views&color=0e75b6&style=flat" alt="almir98" /> </p>
 
