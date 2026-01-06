@@ -30,8 +30,5 @@ Building solutions today that empower the innovations of tomorrow. 🚀
 ### Check out my portfolio website:
 - https://almir98.github.io/
 
----
-<a href="https://github.com/almir98">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almir98&theme=dark&layout=compact" alt="almir98 GitHub Top Languages" />
-  
-</a>
+### 🌐 Check out my portfolio website:
+[![Portfolio](https://skillicons.dev/icons?i=html)](https://almir98.github.io/)
