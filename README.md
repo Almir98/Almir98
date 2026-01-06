@@ -14,13 +14,13 @@ Building solutions today that empower the innovations of tomorrow. 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almir98&label=Profile%20views&color=0e75b6&style=flat" alt="almir98" /> </p>
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/almir-tihak/)
 
-<p>
-  <a href="mailto:almir.tihak98@hotmail.com"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" height="47px" width:"47px"/></a>  
-</p>
+### 📫 Contact
+
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:almir.tihak98@hotmail.com)
 
 ### 🛠️ Languages and tools:
 
